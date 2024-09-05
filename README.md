@@ -1,4 +1,4 @@
-Bike Demand Analysis Project 🚴‍♂️📊
+## Bike Demand Analysis Project 🚴‍♂️📊
 
 ### Overview
 The Bike Demand Analysis Project is a comprehensive data analysis initiative aimed at understanding the key factors influencing bike rental demand. Utilizing historical rental data, we explore various patterns and correlations, including time-based demand trends, weather impacts, seasonality, and the effect of holidays and working days. The project also incorporates a Linear Regression Model to predict future bike demand based on identified key factors.
